@@ -10,7 +10,7 @@ ediuheufhwiufbwuifbuwfburbfu3bcurbdivbeisfgeufcbubhbjbyufgvhjb8guijkiuhjbiuhjbnm
 
 ## Table of Contents
 
-* Introduction
+* [Description](https://github.com/GiselleJM/Project5CSC509GJonesMollod/blob/master/README.md#description)
 * Concepts
 * Challenges
 * Sources
