@@ -8,6 +8,8 @@ ediuheufhwiufbwuifbuwfburbfu3bcurbdivbeisfgeufcbubhbjbyufgvhjb8guijkiuhjbiuhjbnm
 
 [github](https://www.github.com)
 
+![Image of Swift Logo]
+(file:///Users/student/Desktop/swift-og-1.png)
 ## Table of Contents
 
 * [Description](https://github.com/GiselleJM/Project5CSC509GJonesMollod/blob/master/README.md#description)
