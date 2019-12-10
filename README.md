@@ -11,10 +11,10 @@ ediuheufhwiufbwuifbuwfburbfu3bcurbdivbeisfgeufcbubhbjbyufgvhjb8guijkiuhjbiuhjbnm
 ## Table of Contents
 
 * [Description](https://github.com/GiselleJM/Project5CSC509GJonesMollod/blob/master/README.md#description)
-* Concepts
-* Challenges
-* Sources
-* Contributors
+* [Concepts](https://github.com/GiselleJM/Project5CSC509GJonesMollod/blob/master/README.md#concepts)
+* [Challenges](https://github.com/GiselleJM/Project5CSC509GJonesMollod/blob/master/README.md#challenges)
+* [Sources](https://github.com/GiselleJM/Project5CSC509GJonesMollod/blob/master/README.md#sources)
+* [Contributors](https://github.com/GiselleJM/Project5CSC509GJonesMollod/blob/master/README.md#contributors)
 
 
 ### Description
