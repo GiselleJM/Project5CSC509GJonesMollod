@@ -22,5 +22,21 @@ ediuheufhwiufbwuifbuwfburbfu3bcurbdivbeisfgeufcbubhbjbyufgvhjb8guijkiuhjbiuhjbnm
 This is a collection of array problems for computer science 509 at Phillips Academy Andover, written im Swift.
 fhrbviuqwbfiuqwhcoiq3fhwofhoifhwoskljcnwioafhnwoichn,mcniowsdhcnoiuhfunebvoibvibvbvbeivbejkvbekjbvkjvbekbvkbvebvebebvjebvejvbevbejkvbejkvbekvbekbvekvbevbevbebvekbvebv **jdbew**idhuehc3irucbiubcui
 
+### Concepts
+
+* dgcwiuye
+* hfebciouwndjeqk
+* e2dbuqdhi2odh2
+  * duwqduqdnoqidjn
+  * yudbhndoqd
+* ueywbdidnkld
+
+### Challenges
+
+wifundkqdhnbiyf2gewo,pkojihoueibfwdjknqlm;,p'kojihufbyvedjkqw lm;,kopjihugyvedjkw nlm;opjihuegybvhjdkn lwm;oijchjphubwvjklnqxmijochubwyhjklmxijohubyhwjkimjohubvyhjknlmijohubvhimjnoubihkj nbihvgwjhbkqnlmijhukwcbjnxk;jalsncknjdxmjbchsjknlmxgvuhbjnxklm
+
+### Sources
 
 
+
+### Contributors
