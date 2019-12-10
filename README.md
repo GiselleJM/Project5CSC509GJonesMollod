@@ -1,7 +1,7 @@
 # Project5CSC509GJonesMollod
 Giselle Jones-Mollod
 
-### Table of Contents
+## Table of Contents
 
 * Introduction
 * Concepts
