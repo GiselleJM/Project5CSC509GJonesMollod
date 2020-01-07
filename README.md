@@ -26,12 +26,12 @@ This is a collection of array practice problems for computer science 509 at Phil
 
 
 ### Sources
-Problem 1 was taken from here 
-Problem 2 was taken from here 
-Problem 3 was taken from here
-Problem 4 was taken from here
-Problem 5 was taken from here
-Problem 6 was taken from here 
+* Problem 1 was taken from [here]
+* Problem 2 was taken from here 
+* Problem 3 was taken from here
+* Problem 4 was taken from here
+* Problem 5 was taken from here
+* Problem 6 was taken from here 
 
 
 ### Contributors
