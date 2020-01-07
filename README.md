@@ -1,7 +1,7 @@
 # Project5CSC509GJonesMollod
 Giselle Jones-Mollod
 
-### Subtitle
+### Practicing Concepts of Arrays and Lists in Swift
 
 ifhwiufhnwiocweoichouwhfiuwrhfufhiuhf3fhfhhfruhf*word*duvuifhberiuv*italics*
 ediuheufhwiufbwuifbuwfburbfu3bcurbdivbeisfgeufcbubhbjbyufgvhjb8guijkiuhjbiuhjbnm
