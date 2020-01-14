@@ -27,8 +27,8 @@ This is a collection of array practice problems for computer science 509 at Phil
 ### Sources
 * Problem 1 was taken from [**here**](https://codingbat.com/prob/p185685)
 * Problem 2 was taken from [**here**](https://codingbat.com/prob/p146256)
-* Problem 3 was taken from [**here](https://codingbat.com/prob/p127384)
+* Problem 3 was taken from [**here**](https://codingbat.com/prob/p127384)
 * Problem 4 was taken from [**here**](https://w3resource.com/swift-programming-exercises/array/index.php#editorr)
-* Problem 5 was taken from [**here](https://w3resource.com/swift-programming-exercises/array/index.php#editorr)
+* Problem 5 was taken from [**here**](https://w3resource.com/swift-programming-exercises/array/index.php#editorr)
 
 
