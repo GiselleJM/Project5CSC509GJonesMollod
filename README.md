@@ -3,7 +3,7 @@ Giselle Jones-Mollod
 
 ### Practicing Concepts of Arrays and Lists in Swift
 
-[github](https://www.github.com)
+Access here: [github](https://www.github.com)
 
 ## Table of Contents
 
@@ -15,23 +15,20 @@ Giselle Jones-Mollod
 
 ### Description
 
-This is a collection of array practice problems for computer science 509 at Phillips Academy Andover, written in the language Swift. These problems were taken from sources such as [**Coding Bat**](https://codingbat.com/java/Array-2) and [**Project Euler** ](https://projecteuler.net/problem=7). These problems range in difficulty and can be accessible for beginner coders learning the applications of arrays and more advanced students who enjoy testing their schools with fun challenge problems.
+This is a collection of array practice problems for computer science 509 at Phillips Academy Andover, written in the language Swift. These problems were taken from sources such as [**Coding Bat**](https://codingbat.com/java/Array-2) and [**w3resource** ](https://w3resource.com/swift-programming-exercises/array/index.php#editorr). These problems range in difficulty and can be accessible for beginner coders learning the applications of arrays and more advanced students who enjoy testing their schools with fun challenge problems.
 
 ### Concepts
  
 * Arrays
   * Iteration
-  * Memoizing
 * Lists
 
 
 ### Sources
-* Problem 1 was taken from [here]
-* Problem 2 was taken from here 
-* Problem 3 was taken from here
-* Problem 4 was taken from here
-* Problem 5 was taken from here
-* Problem 6 was taken from here 
+* Problem 1 was taken from [**here**](https://codingbat.com/prob/p185685)
+* Problem 2 was taken from [**here**](https://codingbat.com/prob/p146256)
+* Problem 3 was taken from [**here](https://codingbat.com/prob/p127384)
+* Problem 4 was taken from [**here**](https://w3resource.com/swift-programming-exercises/array/index.php#editorr)
+* Problem 5 was taken from [**here](https://w3resource.com/swift-programming-exercises/array/index.php#editorr)
 
 
-### Contributors
